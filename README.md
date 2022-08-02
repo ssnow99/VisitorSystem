@@ -10,7 +10,7 @@ Get visiotr IP address, country, region and city when they visited to <a href="h
 <li>Java, JSP, CSS, Javascript are used in this system.</li>
 <li>All return datas such as country code, country name, region name, city name rerieved by using <a href="https://github.com/ip2location/ip2location-java" target="_blank">IP2Location™ IP Geolocation Java Component</a>.</li>
 <li>On the database `ip2location`, table `visitor_history` used to record the visited history.</li>
-<li>IP2LOCATION-LITE-DB3.BIN can be found at /WebContent/resources</li>
+<li>IP2LOCATION-LITE-DB3.BIN can be found at <a href="https://github.com/ssnow99/VisitorSystem/blob/main/WebContent/resources">/WebContent/resources/IP2LOCATION-LITE-DB3.BIN</a></li>
 </ul>
 
 # Database
